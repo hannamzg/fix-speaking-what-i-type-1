@@ -34,7 +34,7 @@ speechBtn.addEventListener("click" , (e)=>{
             texttospeech(textarea.value)
         } 
     }
-})
+}) 
 
 
 
@@ -82,4 +82,6 @@ speechBtn.addEventListener("click" , (e)=>{
             speechBtn.innerHTML = " covert to speech"
         }
     }
-}) */
+}); */
+
+
